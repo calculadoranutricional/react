@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://calculadoranutricional.github.io/tuti/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
